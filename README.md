@@ -25,9 +25,10 @@ The web site contains descriptions of the contents of each of the files
 > To run the project open the seattle_airbnb_analusis.ipynb in jupyter or jupyter lab and run all cells
 
 ## Summary of findings
-> Availability is not an issue but more homes are available toward the end of the year
-> The majority of prices are between $50 and $200 dollars a night
-> Value and cleanliness are the most significant factors contributing to the overall score in a review
++ Availability is not an issue but more homes are available toward the end of the year
++ The majority of prices are between $50 and $200 dollars a night
++ Value and cleanliness are the most significant factors contributing to the overall score in a review
+
 ## Licensing, Authors, Acknowledgements, etc.
 + Author: John Fitzpatrick
 + Licensing: freely available for copying or modifications

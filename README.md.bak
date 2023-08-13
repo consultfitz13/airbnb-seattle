@@ -23,6 +23,7 @@
 The web site contains descriptions of the contents of each of the files
 ## How to Interact with your project
 > To run the project open the seattle_airbnb_analusis.ipynb in jupyter or jupyter lab and run all cells
+
 ## Summary of findings
 > Availability is not an issue but more homes are available toward the end of the year
 > The majority of prices are between $50 and $200 dollars a night
