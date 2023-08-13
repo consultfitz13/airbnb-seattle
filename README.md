@@ -26,4 +26,5 @@ The web site contains descriptions of the contents of each files
 ## Licensing, Authors, Acknowledgements, etc.
 + Author: John Fitzpatrick
 + Licensing: freely available for copying or modifications
++ The function, coef_weights, was copied from the Udacity Data Scientist class
 
